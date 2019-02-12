@@ -10,6 +10,12 @@ $ cd node-email
 $ yarn install
 ```
 
+Or...
+
+```bash
+$ yarn add https://github.com/SalathielGenese/node-email.git
+```
+
 ## Setup
 
 I have tested it with Gmail. So if you have a Gmail account, [head over here](https://myaccount.google.com/lesssecureapps) and **allow less secure apps**.
